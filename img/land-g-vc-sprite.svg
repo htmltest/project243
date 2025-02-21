@@ -1,0 +1,15 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <symbol viewBox="0 0 48 48" id="land-g-vc-products-prev">
+        <path d="M19.9982 42.6136L1.38281 23.9982L19.9982 5.38281L22.1252 7.50976L5.63666 23.9982L22.1252 40.4867L19.9982 42.6136Z" />
+    </symbol>
+
+    <symbol viewBox="0 0 48 48" id="land-g-vc-products-next">
+        <path d="M28.0018 5.38248L46.6172 23.9979L28.0018 42.6133L25.8748 40.4863L42.3633 23.9979L25.8748 7.50943L28.0018 5.38248Z" />
+    </symbol>
+
+    <symbol viewBox="0 0 36 36" id="land-g-vc-up-link">
+        <path d="M17.9963 16.5766L11.0963 23.4766L9.51562 21.8959L17.9963 13.4153L26.4769 21.8959L24.8962 23.4766L17.9963 16.5766Z" />
+    </symbol>
+
+</svg>
